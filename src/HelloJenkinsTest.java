@@ -8,7 +8,7 @@ public class HelloJenkinsTest {
 	public void test() {
 		HelloJenkins d = new HelloJenkins();
 		assertEquals("aa", d.h);
-		assertEquals("aa", d.getH());
+		assertEquals("aab", d.getH());
 	}
 
 }
