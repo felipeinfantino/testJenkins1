@@ -8,6 +8,6 @@ public class HelloJenkins {
 	public String getH(){
 		return this.h;
 	}
-	aesnaoskdoa
+	
 
 }
